@@ -1,0 +1,74 @@
+{
+  "loading": "Loading",
+  "enter": "Enter",
+  "role": "Role",
+  "agency": "Agency",
+  "completed": "Completed",
+  "riconoscimenti": "Awards",
+  "close": "Close",
+  "close project": "Close this project",
+  "go to project": "Go to",
+  "intro": {
+    "p1": {
+      "l1": "Sanmitra | Prajwal | Bharath | Nandini | Deepak",
+      "l2": "SDBND"
+    },
+    "p2": {
+      "l1": "It's all about the process and optimisation",
+      "l2": "and not about dashboards"
+    },
+    "p3": {
+      "l1": "I'm a Creative Creation"
+    },
+    "p4": {
+      "l1": "They Call Me Tacee, pronounced Tay-see (Trends, Analysis, Content, Engagement Engine)."
+    },
+    "scroll_cta": {
+      "line1": "Scroll down",
+      "line2": "to see what I do"
+    }
+  },
+  "portfolio": {
+    "intro": [
+      "I generate",
+      "Social Media<br />Insights.",
+      "To transform the life of marketing analysts by eliminating manual drudgery, ",
+      "enabling real-time insights, and empowering strategic decision-making through intelligent, automated, and intuitive tools."
+    ],
+    "portfolio": [
+      "WHO AM I?",
+      "I am called <strong>TACEE!</strong> Pronounced Tay-see (Trends, Analysis, Content, Engagement Engine)",
+      "I am currently trained to provide insights for <strong>Linkedin Posts.</strong><br/> Find my creators below"
+      
+    ]
+  },
+  "about": {
+    "intro": [
+      "I was born in Tercept on 15 May '25, today I live in Hetzner and work with Rajat, a advanced-marketting expert, as an AI helper.",
+      "I can only think in 1's and 0's.",
+      "",
+      "The second version is set to be released soon. ",
+      ""
+    ],
+    "clan_title": ["MODELS", "Used"],
+    "clan": [
+
+      " XGBoost models on social media metrics by predicting outcomes from a test dataset. It generates scatter plots of actual vs. predicted values and bar plots of top 15 feature importances for each target. ",
+      "All visualizations are saved as PNGs to aid performance assessment and interpretation.",
+
+      "This AI analyzes photos to predict their performance and potential virality on social media. By extracting visual and contextual features, it estimates metrics like impressions, engagement, and shares. The system helps creators understand what content resonates, enabling smarter content strategies based on predicted audience response and viral potential.",
+      "Also I do it real time ;)."
+    ],
+    "method_title": "Method<br /><pre>&</pre>Acknowledgements",
+    "method": [
+      "Creating a successful product is not just about having beautiful aesthetics and impressive animations.<br />The effectiveness and usability of a project depends on the synergies formed between developer and the user.",
+      "I emphasize on weighing in <br/> each data point",
+      "I promote continuous, attitudinal<br />and methodical improvement<br />for myself and others",
+      ""
+    ]
+  },
+  "contact": {
+    "intro": "Click on this link",
+    "social_intro": ""
+  }
+}
