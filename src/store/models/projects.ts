@@ -10,27 +10,27 @@ type Project = {
 const initialState: Project[] = [
   {
     name: 'Sanmitra',
-    url: 'sketchin',
+    url: '#',
     videoID: 'skReel'
   },
   {
     name: 'Prajwal',
-    url: 'aquest',
+    url: '#',
     videoID: 'aqReel'
   },
   {
     name: 'Bharath',
-    url: 'fastweb',
+    url: '#',
     videoID: 'fbReel'
   },
   {
     name: 'Nandini',
-    url: 'feudi',
+    url: '#',
     videoID: 'feudiReel'
   },
   {
     name: 'Deepak',
-    url: 'claraluna',
+    url: '#',
     videoID: 'claralunaReel'
   }
 ]

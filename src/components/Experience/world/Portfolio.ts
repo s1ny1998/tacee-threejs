@@ -116,27 +116,27 @@ export default class Portfolio {
     this.projects = [
       {
         name: 'Sanmitra',
-        url: 'sketchin',
+        url: '#',
         video: document.getElementById('skReel') as HTMLVideoElement
       },
       {
         name: 'Prajwal',
-        url: 'aquest',
+        url: '#',
         video: document.getElementById('aqReel') as HTMLVideoElement
       },
       {
         name: 'Bharath',
-        url: 'fastweb',
+        url: '#',
         video: document.getElementById('fbReel') as HTMLVideoElement
       },
       {
         name: 'Nandini',
-        url: 'feudi',
+        url: '#',
         video: document.getElementById('feudiReel') as HTMLVideoElement
       },
       {
         name: 'Deepak',
-        url: 'claraluna',
+        url: '#',
         video: document.getElementById('claralunaReel') as HTMLVideoElement
       }
     ]
@@ -239,7 +239,7 @@ export default class Portfolio {
 
       clickableMesh.addEventListener(ThreeMouseEventType.CLICK, (e) => {
         if (!this.isVisible) return
-        rootNavigate(e.model.view.pathname)
+        // rootNavigate(e.model.view.pathname)
       })
       clickableMesh.addEventListener(ThreeMouseEventType.OVER, () => {
         window.store.dispatch.pointer.setType('hover')
